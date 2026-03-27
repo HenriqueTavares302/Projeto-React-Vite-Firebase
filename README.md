@@ -124,15 +124,12 @@ Prints de Aplicação:
 
 ## Demonstração do Projeto
 
-### Dashboard do Firebase
-![Firebase Auth](file:///C:/Users/joao_/OneDrive/Imagens/Screenshots/Captura%20de%20tela%202026-03-27%20173201.png)
-(copie e cole a url para ver o print)
+### Painel do Firebase
+![Firebase Auth](./Captura%20de%20tela%202026-03-27%20173201.png)
 
 ### Tela de Login
-![Login Page](file:///C:/Users/joao_/OneDrive/Imagens/Screenshots/Captura%20de%20tela%202026-03-27%20173333.png)
-(copie e cole a url para ver o print)
+![Login](./Captura%20de%20tela%202026-03-27%20173333.png)
 
-### Área Privada (Logado)
-![Private Area](file:///C:/Users/joao_/OneDrive/Imagens/Screenshots/Captura%20de%20tela%202026-03-27%20173406.png)
-(copie e cole a url para ver o print)
+### Dashboard do Utilizador
+![Área Privada](./Captura%20de%20tela%202026-03-27%20173406.png)
 
