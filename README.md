@@ -81,8 +81,9 @@ const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
 
 ▶️ Como rodar o projeto
-1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+1. Clone o repositório com a URL:
+https://github.com/HenriqueTavares302/Projeto-React-Vite-Firebase
+e abra a pasta no VSCODE.
 2. Acesse a pasta
 cd vite-project
 3. Instale as dependências
