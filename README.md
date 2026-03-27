@@ -120,7 +120,19 @@ Este projeto está sob a licença MIT.
 
 ---
 
+Prints de Aplicação:
 
+## Demonstração do Projeto
 
+### Dashboard do Firebase
+![Firebase Auth](file:///C:/Users/joao_/OneDrive/Imagens/Screenshots/Captura%20de%20tela%202026-03-27%20173201.png)
+(copie e cole a url para ver o print)
 
+### Tela de Login
+![Login Page](file:///C:/Users/joao_/OneDrive/Imagens/Screenshots/Captura%20de%20tela%202026-03-27%20173333.png)
+(copie e cole a url para ver o print)
+
+### Área Privada (Logado)
+![Private Area](file:///C:/Users/joao_/OneDrive/Imagens/Screenshots/Captura%20de%20tela%202026-03-27%20173406.png)
+(copie e cole a url para ver o print)
 
