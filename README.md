@@ -1,3 +1,4 @@
+
 # 🔐 TodoList com Autenticação (React + Vite + Firebase)
 
 Este projeto é uma aplicação web simples de autenticação de usuários utilizando **React**, **Vite** e **Firebase Authentication**.
@@ -19,53 +20,6 @@ O objetivo é permitir que usuários possam:
 - 🎨 CSS
 
 ---
-
-## 📂 Estrutura do projeto
-# 🔐 TodoList com Autenticação (React + Vite + Firebase)
-
-Este projeto é uma aplicação web simples de autenticação de usuários utilizando **React**, **Vite** e **Firebase Authentication**.
-
-O objetivo é permitir que usuários possam:
-- Criar uma conta
-- Fazer login
-- Visualizar seu e-mail autenticado
-- Sair da conta
-
----
-
-## 🚀 Tecnologias utilizadas
-
-- ⚛️ React
-- ⚡ Vite
-- 🔥 Firebase Authentication
-- 🟨 JavaScript (ES6+)
-- 🎨 CSS
-
----
-
-## 📂 Estrutura do projeto
-# 🔐 TodoList com Autenticação (React + Vite + Firebase)
-
-Este projeto é uma aplicação web simples de autenticação de usuários utilizando **React**, **Vite** e **Firebase Authentication**.
-
-O objetivo é permitir que usuários possam:
-- Criar uma conta
-- Fazer login
-- Visualizar seu e-mail autenticado
-- Sair da conta
-
----
-
-## 🚀 Tecnologias utilizadas
-
-- ⚛️ React
-- ⚡ Vite
-- 🔥 Firebase Authentication
-- 🟨 JavaScript (ES6+)
-- 🎨 CSS
-
----
-
 ## 📂 Estrutura do projeto
 src/
  ├── assets
