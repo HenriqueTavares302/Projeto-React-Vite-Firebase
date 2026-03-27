@@ -120,7 +120,7 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Prints Da Aplicação:
-<img width="1334" height="629" alt="image" src="https://github.com/user-attachments/assets/ce69e28b-5cf4-4770-8ddc-02b8466c2f0c" />
+
+
 
 
