@@ -120,16 +120,5 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Prints de Aplicação:
 
-## Demonstração do Projeto
-
-### Painel do Firebase
-![Firebase Auth](./Captura%20de%20tela%202026-03-27%20173201.png)
-
-### Tela de Login
-![Login](./Captura%20de%20tela%202026-03-27%20173333.png)
-
-### Dashboard do Utilizador
-![Área Privada](./Captura%20de%20tela%202026-03-27%20173406.png)
 
